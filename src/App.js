@@ -50,6 +50,8 @@ function App() {
             React Redux
           </a>
         </span>
+
+        Test application
       </header>
     </div>
   );
